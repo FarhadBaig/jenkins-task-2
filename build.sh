@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "========================================"
-echo "       Jenkins Task-2 Build Started"
+echo "       Jenkins Task-2 Build started successfully from GitHub webhook."
 echo "========================================"
 
 echo ""
